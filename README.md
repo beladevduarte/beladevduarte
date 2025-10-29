@@ -56,20 +56,17 @@
 <div align="center">
 
   <!-- GIF Star Wars hiperespacial -->
-  <img src="https://i.gifer.com/origin/3a/3a3766f276f3021954cfbb95ab357e6a.gif" width="600" alt="Hyperspace Star Wars">
+  <img src="https://media.tenor.com/bmK5b6jsKFsAAAAC/hyperspace-star-wars.gif" width="600" alt="Hyperspace Star Wars">
 
   <h3 style="color:#00FFFF; text-shadow: 0 0 12px #00FFFF;">
     ⚡ Thanks for visiting — Stay curious, stay encrypted. ⚡
   </h3>
 
-
   <!-- Pac-Man GIF futurista -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIzYXd4d2FqYTl1MWI2ZzMwMnZncnN0emI4cGxtbm9qZmgwYjBzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" width="400" alt="Blue Binary Space">
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Pac-Man Moving">
 
-  
-  <br>
+  <br><br>
+
   <!-- Luzes cibernéticas -->
-  <img src="https://i.gifer.com/fetch/w300-preview/da/da8b8d1838412b4adcb302a8b5fae6bb.gif" width="500" alt="Blue cyber lights">
-
+  <img src="https://media.tenor.com/znCO9q2DpI0AAAAC/blue-neon-line.gif" width="500" alt="Blue cyber lights">
 </div>
