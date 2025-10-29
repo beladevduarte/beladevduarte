@@ -6,7 +6,9 @@
   </h1>
 
   <!-- GIF cibernético / Star Wars vibe -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdraHBrYXlrN2FpbndtcmExcWYwYTdvZHRqZW9tbjYwaW5vZmsxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="700" alt="Blue Binary Space">
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5977d972-56e3-4d37-8c50-34c0ecb8c05c" 
+     /> 
+     
 </div>
 
 ---
