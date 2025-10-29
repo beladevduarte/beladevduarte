@@ -6,8 +6,8 @@
   </h1>
 
   <!-- GIF cibernético / Star Wars vibe -->
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5977d972-56e3-4d37-8c50-34c0ecb8c05c" 
-     /> 
+  <img width="1536" height="1024" alt="image" width="734" height="340" alt="image" src="https://github.com/user-attachments/assets/8d81294e-9cbc-4e34-a0eb-06118a9f884f"
+    />
      
 </div>
 
